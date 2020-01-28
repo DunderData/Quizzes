@@ -1,6 +1,6 @@
-# Python Quizzes
+# Python Quiz Solutions
 
-Challenge your Python skills by taking the quizzes in this directory. The quizzes will be tagged with **#PythonQuiz** on social media to help identify them.
+This page contains the solutions to the Python quizzes. They will be posted 24 hours after the quiz is announced. The quizzes will be tagged with **#PythonQuiz** on social media to help identify them.
 
 ### Complete the Quiz
 
@@ -45,3 +45,5 @@ def func2():
 ```
 
 In `func1`, `return` is not a function, while in `func2` it is a function. True or False?
+
+### Solution - January 29, 2020
