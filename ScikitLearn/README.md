@@ -1,6 +1,12 @@
 # Scikit-Learn Quizzes
 
-Challenge your scikti-learn skills by taking the quizzes in this directory. The quizzes will be tagged with **#ScikitLearnQuiz** on social media to help identify them.
+This page contains the solutions to the scikit-learn quizzes. They will be posted 24 hours after the quiz is announced. The quizzes will be tagged with **#ScikitLearnQuiz** on social media to help identify them.
+
+### Complete the Quiz
+
+Quizzes may be completed in the Jupyter Notebooks available in this repository. You can either download them directly from here or use this link below courtesy of Binder to run a remote Jupyter Notebook.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DunderData/Quizzes/master)
 
 ## Become an Expert
 

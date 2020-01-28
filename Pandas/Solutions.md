@@ -1,6 +1,6 @@
 # Pandas Quizzes
 
-Challenge your pandas skills by taking the quizzes in this directory. The quizzes will be tagged with **#PandasQuiz** on social media to help identify them.
+This page contains the solutions to the pandas quizzes. They will be posted 24 hours after the quiz is announced. The quizzes will be tagged with **#PandasQuiz** on social media to help identify them.
 
 ### Complete the Quiz
 

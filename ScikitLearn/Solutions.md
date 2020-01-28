@@ -1,6 +1,6 @@
-# Pandas Quizzes
+# Scikit-Learn Quiz Solutions
 
-Challenge your pandas skills by taking the quizzes in this directory. The quizzes will be tagged with **#PandasQuiz** on social media to help identify them.
+Challenge your scikti-learn skills by taking the quizzes in this directory. The quizzes will be tagged with **#ScikitLearnQuiz** on social media to help identify them.
 
 ### Complete the Quiz
 

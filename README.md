@@ -26,7 +26,7 @@ Each quiz will be given a difficulty rating from 1 to 4 with 4 being the most ch
 
 Quizzes may be completed in the Jupyter Notebooks available in this repository. You can either download them directly from here or use this link below courtesy of Binder to run a remote Jupyter Notebook.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dunderdata.com/quizzes/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DunderData/Quizzes/master)
 
 ## Become an Expert
 
