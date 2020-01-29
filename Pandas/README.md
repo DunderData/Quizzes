@@ -8,6 +8,10 @@ Quizzes may be completed in the Jupyter Notebooks available in this repository. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DunderData/Quizzes/master)
 
+### View the solutions
+
+[Click here to view the python quiz solutions online.](Solutions.md)
+
 ## Become an Expert
 
 If you are looking for a comprehensive path to help you become an expert at the python data science ecosystem, you might want to check out the following books I wrote.
