@@ -49,3 +49,21 @@ def func2():
 ```
 
 In `func1`, `return` is not a function, while in `func2` it is a function. True or False?
+
+---
+
+## Quiz #2 - January 29, 2020 - difficulty (2/4)
+
+Take a look at the following function definition.
+
+```python
+def func():
+    return()
+```
+
+What is the result of executing `func()`?
+
+a) `None`  
+b) An error  
+c) Tuple  
+d) 0  
