@@ -58,3 +58,33 @@ Parentheses have a completely different meaning when used to call a function. Fo
 
 [1]: https://docs.python.org/3/reference/simple_stmts.html#grammar-token-return-stmt
 [2]: https://docs.python.org/3/reference/index.html
+
+---
+
+## Quiz #2 - January 29, 2020 - difficulty (2/4)
+
+Take a look at the following function definition.
+
+```python
+def func():
+    return()
+```
+
+What is the result of executing `func()`?
+
+a) `None`  
+b) An error  
+c) Tuple  
+d) 0
+
+### Solution - January 30, 2020
+
+This function's single line, `return()`, is quite bizarre. It appears that `return` is a function and being called. From the previous quiz, we learned that `return` is never a function and python will interpret the line as `return` followed by `()`. So, what does `()` do? It creates an empty tuple, which is then returned from the function. We verify this below by defining the function, calling it, assigning the result to a variable, outputting this value, and obtaining it's type.
+
+```python
+>>> def func():
+>>>    return()
+>>> a = func()
+>>> type(a)
+tuple
+```
