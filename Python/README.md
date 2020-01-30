@@ -67,3 +67,19 @@ a) `None`
 b) An error  
 c) Tuple  
 d) 0  
+
+--- 
+
+## Quiz #3 - January 30, 2020 - difficulty (2/4)
+
+Given the following function definition, which function call is invalid?
+
+```python
+def func(a, b=5):
+    pass
+```
+
+a) `func(a=3, 10)`  
+b) `func(3, b=10)`  
+c) `func(3)`  
+d) `func(b=’adf’, a=10)`  
