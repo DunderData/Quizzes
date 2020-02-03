@@ -83,3 +83,12 @@ a) `func(a=3, 10)`
 b) `func(3, b=10)`  
 c) `func(3)`  
 d) `func(b=’adf’, a=10)`  
+
+---
+
+## Quiz #4 - February 3, 2020 - difficulty (2/4)
+
+Is the range function a function?
+
+a) True  
+b) False

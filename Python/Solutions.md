@@ -88,3 +88,31 @@ This function's single line, `return()`, is quite bizarre. It appears that `retu
 >>> type(a)
 tuple
 ```
+
+## Quiz #3 - January 30, 2020 - difficulty (2/4)
+
+Given the following function definition, which function call is invalid?
+
+```python
+def func(a, b=5):
+    pass
+```
+
+a) `func(a=3, 10)`  
+b) `func(3, b=10)`  
+c) `func(3)`  
+d) `func(b=’adf’, a=10)`  
+
+### Solution - February 3, 2020
+
+In Python, you can provide arguments by either using the parameter name or by their position. It is called a **keyword** argument when using the parameter name and **positional** when using just their position. Keyword arguments may appear anywhere in the function call and their order does not matter. Positional arguments must appear in their precise position and cannot follow a keyword argument.
+
+In this quiz, we have two parameters, `a`, and `b`. They can be provided as either keyword or positional. Additionally, the `b` parameter has been given a default value of 5 and is not strictly necessary to provide.
+
+We can call the `func` function in multiple valid ways. 
+
+* `func(4, 2)` - parameter `a` is assigned the value 4, and `b` is assigned to 2. Both are positional.
+* `func('asdf')` - parameter `a` is assigned the string 'asdf', while `b` is not explicitly given a value and therefore remains 5, the default value. Parameters may be assigned any value of any type in Python.
+* `func(a='asdf', b='asdf')` - both `a` and `b` are assigned the same string 'asdf' as keyword arguments.
+* `func('asdf', b=10)` - `a` is provided as positional, while `b` is a keyword.
+* `func(a=3, 10)` - this is illegal (answer 'a' from above) because a positional argument cannot follow a keyword argument.
