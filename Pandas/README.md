@@ -35,8 +35,6 @@ b) 6
 c) 30  
 d) 36  
 
-
-
 ```python
 import pandas as pd
 df = pd.DataFrame({0: [1, 2, 3], 
@@ -74,3 +72,14 @@ df
 ```python
 sum(df)
 ```
+
+## Quiz #2 - February 11, 2020 - difficulty (2/4)
+
+What is the data type of column `num`?
+
+a) integer  
+b) float  
+c) object  
+d) boolean  
+
+![](images/quiz2.png) 
